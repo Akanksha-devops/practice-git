@@ -1,4 +1,4 @@
-### :octocat: Git Your Practice On!
+### :octocat: Git Your Practice On for this session!
 
 * 19 Git Tips for Everyday use [http://www.alexkras.com/19-git-tips-for-everyday-use](http://www.alexkras.com/19-git-tips-for-everyday-use)
 * Git Hot Tips by Wes Bos [https://wesbos.com/git-hot-tips/](https://wesbos.com/git-hot-tips/)
@@ -347,3 +347,5 @@ git help
 git help <command>
 ```
 #### Nasty link
+## git initialization
+git init
